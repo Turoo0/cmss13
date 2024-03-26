@@ -344,6 +344,7 @@ GLOBAL_LIST_INIT(default_xeno_onmob_icons, list(
 #define SPECIES_HUMAN "Human"
 #define SPECIES_YAUTJA "Yautja"
 #define SPECIES_SYNTHETIC "Synthetic"
+#define SPECIES_ROBOT "Robot"
 #define SPECIES_MONKEY "Monkey"
 #define SPECIES_ZOMBIE "Zombie"
 

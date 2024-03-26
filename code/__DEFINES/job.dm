@@ -170,6 +170,17 @@ GLOBAL_LIST_INIT(job_command_roles, JOB_COMMAND_ROLES_LIST)
 
 //------------------------------------
 
+//-------------Horizon Core Corporation roles---------------//
+
+//----Command----
+
+#define JOB_HCC_CO "Core Overseer"
+#define JOB_HCC_CF "Core Foreman"
+
+#define JOB_CORE_COMMAND_LIST list(JOB_HCC_CO, JOB_HCC_CF)
+
+//------------------------------------
+
 //-------- PMC --------//
 #define JOB_PMC_STANDARD "Weyland-Yutani PMC (Standard)"
 #define JOB_PMC_ENGINEER "PMC Corporate Technician"

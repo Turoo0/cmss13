@@ -82,6 +82,8 @@ GLOBAL_LIST_INIT(bgstate_options, list(
 	//Synthetic specific preferences
 	var/synthetic_name = "Undefined"
 	var/synthetic_type = SYNTH_GEN_THREE
+	//Robot specific preferences
+	var/robot_type = ROBOT_GEN_ONE
 	//Predator specific preferences.
 	var/predator_name = "Undefined"
 	var/predator_gender = MALE

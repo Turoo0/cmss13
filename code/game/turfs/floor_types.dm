@@ -668,3 +668,7 @@
 /turf/open/floor/corsat
 	icon = 'icons/turf/floors/corsat.dmi'
 	icon_state = "plating"
+
+/turf/open/floor/HCC_floors
+	icon = 'icons/turf/floors/HCC/hcc_floor.dmi'
+	icon_state = "floor"

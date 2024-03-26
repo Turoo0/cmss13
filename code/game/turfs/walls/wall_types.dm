@@ -1332,3 +1332,13 @@ INITIALIZE_IMMEDIATE(/turf/closed/wall/indestructible/splashscreen)
 	color = "#c5beb4"
 	desc = "Ancient beyond measure, these walls make up the hull of a vessel of non human origin. Despite this, they can be felled with plastic explosives like any other opaque blocker."
 	hull = 0
+
+/turf/closed/wall/HCC_walls/wall
+	icon = 'icons/turf/walls/HCC/hcc_walls.dmi'
+	icon_state = "wall"
+	special_icon = 1
+
+/turf/closed/wall/HCC_walls/connector
+	icon = 'icons/turf/walls/HCC/hcc_walls.dmi'
+	icon_state = "wall_connection"
+	special_icon = 1

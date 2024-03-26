@@ -910,4 +910,6 @@
 /obj/structure/machinery/door/airlock/prison/horizontal
 	dir = SOUTH
 
-
+/obj/structure/machinery/door/airlock/HCC_door/white_door
+	icon = 'icons/obj/structures/doors/HCC/hcc_door.dmi'
+	openspeed = 8

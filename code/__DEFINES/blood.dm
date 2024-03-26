@@ -7,6 +7,7 @@
 
 #define BLOOD_COLOR_HUMAN "#A10808"
 #define BLOOD_COLOR_SYNTHETIC "#EEEEEE"
+#define BLOOD_COLOR_ROBOT "#d6faff"
 
 #define BLOOD_COLOR_NEAERA "#1d2cbf"
 
