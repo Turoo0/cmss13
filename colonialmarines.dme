@@ -1945,6 +1945,7 @@
 #include "code\modules\mob\living\carbon\human\species\emote-monkey.dm"
 #include "code\modules\mob\living\carbon\human\species\human.dm"
 #include "code\modules\mob\living\carbon\human\species\monkey.dm"
+#include "code\modules\mob\living\carbon\human\species\robot.dm"
 #include "code\modules\mob\living\carbon\human\species\species.dm"
 #include "code\modules\mob\living\carbon\human\species\synthetic.dm"
 #include "code\modules\mob\living\carbon\human\species\zombie.dm"
