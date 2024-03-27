@@ -669,6 +669,11 @@
 	icon = 'icons/turf/floors/corsat.dmi'
 	icon_state = "plating"
 
-/turf/open/floor/HCC_floors
+// HHC FLOORS
+/turf/open/floor/HCC_floors/metal_floor
 	icon = 'icons/turf/floors/HCC/hcc_floor.dmi'
 	icon_state = "floor"
+
+/turf/open/floor/HCC_floors/wooden_floor
+	icon = 'icons/turf/floors/HCC/hcc_floor.dmi'
+	icon_state = "wood"

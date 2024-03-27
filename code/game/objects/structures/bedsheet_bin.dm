@@ -146,3 +146,15 @@ LINEN BINS
 
 
 	add_fingerprint(user)
+
+/obj/item/bedsheet/hcc_bedsheets/white
+	name = "bedsheet"
+	desc = "A surprisingly soft linen bedsheet."
+	icon = 'icons/obj/items/HCC_bed_sheet.dmi'
+	icon_state = "white_bedsheet"
+	item_state = "white_bedsheet"
+	layer = MOB_LAYER
+	throwforce = 1
+	throw_speed = SPEED_FAST
+	throw_range = 2
+	w_class = SIZE_SMALL
